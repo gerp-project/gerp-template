@@ -1,2 +1,2 @@
 # gerp-template-example
-Hot new README content here2
+Hot new README content here
