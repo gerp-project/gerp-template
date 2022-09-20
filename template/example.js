@@ -1,1 +1,2 @@
 console.log('{{greeting}}');
+// comment
