@@ -7,4 +7,4 @@ jobs:
    release-pr:
       uses: OliverMKing/gerp/.github/workflows/template_dispatch.yaml@main
       with:
-         release: ["org/repo", "org2/repo"]
+         repos: '["org/repo", "org2/repo"]'
