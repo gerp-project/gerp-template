@@ -1,0 +1,10 @@
+name: Template dispatch
+
+on:
+   workflow_dispatch:
+
+jobs:
+   release-pr:
+      uses: OliverMKing/gerp/.github/workflows/template_dispatch.yaml@main
+      with:
+         release: ["org/repo", "org2/repo"]
