@@ -1,10 +1,9 @@
 {
   "repos": {
-    "org/repo": {
-      "inputs": {}
+    "OliverMKing/gerp-repo-example": {
+      "inputs": {
+        "greeting": "hello"
+      }
     },
-    "org2/repo2": {
-      "inputs": {}
-    }
   }
 }
