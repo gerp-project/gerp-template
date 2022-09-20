@@ -8,5 +8,4 @@ on:
   
 jobs:
    release-pr:
-      permissions: write-all
       uses: OliverMKing/gerp/.github/workflows/template_dispatch.yaml@main
