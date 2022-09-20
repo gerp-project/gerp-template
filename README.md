@@ -1,1 +1,1 @@
-# gerp-test-template
+# gerp-template-example
