@@ -7,7 +7,8 @@ on:
   workflow_dispatch:
   
 jobs:
-  release-pr:
+  sync-templates:
+    name: Sync Templates
     uses: gerp-project/gerp/.github/workflows/sync_templates.yaml@main
     secrets:
       PAT: ${{ secrets.PAT }}
