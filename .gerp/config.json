@@ -1,6 +1,6 @@
 {
   "repos": {
-    "OliverMKing/gerp-repo-example": {
+    "gerp-project/gerp-repo-example": {
       "inputs": {
         "greeting": "hello"
       }
