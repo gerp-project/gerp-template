@@ -9,7 +9,7 @@ required secrets:
 
 // Your PAT will need the following permissions depending on your target repos and desired templates
 repo.public_repo   // Required to make PRs against target repos
-repo.private_repo  // Only needed if you are synchronizing priviate repos
+repo               // Only needed if you are synchronizing priviate repos
 workflow           // Only needed if you are synchronizing anything in the .github directory 
 ```
 
