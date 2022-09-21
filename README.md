@@ -1,6 +1,5 @@
-Welcome to GERP! We hope you love this tool as much as we do :)
-
 # Getting Started
+Welcome to GERP! We hope you love this tool as much as we do :)
 
 ## Copy Template Repo 📄
 This repo is a template, and you can duplicate it to get a quick and easy setup, just supply the following secrets after you use the template!
