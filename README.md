@@ -16,6 +16,8 @@ workflow           // Only needed if you are synchronizing anything in the .gith
 ## Configuration ⚙️
 Files placed in the [/template](/template) directory will be synced into the root of target directories.
 
+To add a target repo, just add it to your [gerp config](.gerp/config.json)
+
 Variables can be substituted using [mustache](http://mustache.github.io/) templating, with values provided in your [gerp config](.gerp/config.json)
 
 Variables from your gerp config are applied on a per-repo basis to all files being synced.
