@@ -23,4 +23,5 @@ Variables from your gerp config are applied on a per-repo basis to all files bei
 
 ## Terms 📖
 Template Repo : The source of truth repository that GERP will use to determine which files to sync
+
 Target Repo   : A repository that GERP will open pull pull requests against in order to reconcile its files based on the template repository
