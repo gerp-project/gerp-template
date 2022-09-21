@@ -11,7 +11,7 @@ jobs:
     name: Sync Templates
     uses: gerp-project/gerp/.github/workflows/sync_templates.yaml@main
     with:
-      committer: davidgamero <david340804@gmail.com>
+      committer: David Gamero <david340804@gmail.com>
     secrets:
       PAT: ${{ secrets.PAT }}
       GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
