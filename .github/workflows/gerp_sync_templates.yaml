@@ -1,0 +1,13 @@
+name: GERP Synchronize Templates
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  
+jobs:
+  release-pr:
+    uses: gerp-project/gerp/sync_templates.yaml@main
+    secrets:
+      PAT: ${{ secrets.PAT }}
