@@ -8,6 +8,6 @@ on:
   
 jobs:
   release-pr:
-    uses: gerp-project/gerp/sync_templates.yaml@main
+    uses: gerp-project/gerp/.github/workflows/sync_templates.yaml@main
     secrets:
       PAT: ${{ secrets.PAT }}
