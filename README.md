@@ -6,7 +6,7 @@ Welcome to GERP! We hope you love this tool as much as we do. Refer to the [gerp
 
 This repo is a template, and you can duplicate it to get a quick and easy setup.
 
-Hit the `Use this template` at the top.
+[Click Here](https://github.com/gerp-project/gerp-template/generate) to use this repo template, or hit the `Use This Template` button at the top.
 
 ## Configuration :wrench:
 
