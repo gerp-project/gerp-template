@@ -23,6 +23,8 @@ To add a target repo, just add it to your [gerp config](.gerp/config.json)
 
 Files placed in the [/template](/template) directory will be synced into the root of target directories. Variables can be substituted using [mustache](http://mustache.github.io/) templating, with inputs provided in your [gerp config](.gerp/config.json). Inputs from your gerp config are applied on a per-repo basis to all files being synced.
 
+Synchronization will occur when a change is merged into the `main` branch. Progress can be seen in the `Actions` tab.
+ 
 ## Terms :books:
 
 Template Repo: The source of truth repository that GERP will use to determine which files to sync
