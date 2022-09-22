@@ -1,8 +1,13 @@
 {
   "repos": {
-    "gerp-project/gerp-repo-example": {
+    "org1/repo1": {
       "inputs": {
         "greeting": "hello"
+      }
+    },
+    "org2/repo2": {
+      "inputs": {
+        "greeting": "howdy"
       }
     }
   }
