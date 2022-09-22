@@ -4,7 +4,9 @@ Welcome to GERP! We hope you love this tool as much as we do. Refer to the [gerp
 
 ## Copy Template Repo :page_facing_up:
 
-This repo is a template, and you can duplicate it to get a quick and easy setup. Hit the `Use this template` at the top.
+This repo is a template, and you can duplicate it to get a quick and easy setup.
+
+Hit the `Use this template` at the top.
 
 ## Configuration :wrench:
 
