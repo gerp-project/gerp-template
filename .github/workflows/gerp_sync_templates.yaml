@@ -9,10 +9,6 @@ on:
 jobs:
   sync-templates:
     name: Sync Templates
-    uses: gerp-project/gerp/.github/workflows/sync_templates.yaml@main
-    with:
-      committer: David Gamero <david340804@gmail.com>
+    uses: gerp-project/gerp/.github/workflows/sync_templates.yaml@v0
     secrets:
       PAT: ${{ secrets.PAT }}
-      GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
-      GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
